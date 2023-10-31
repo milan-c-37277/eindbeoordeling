@@ -9,7 +9,7 @@
 
 De eindbeoordeling wordt uitgevoerd met twee studenten (student1 en student2). De beoordeling voor de ene student is niet afhankelijk van de andere student
 
-##stappen
+## stappen
 1. student1: fork de repository https://github.com/djsjollema/eindbeoordeling
 2. student1: voeg student2 toe als Collaborator
 3. student1: clone de repository
